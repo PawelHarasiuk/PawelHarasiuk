@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Paweł</h1>
 
 <h2>About Me</h2>
----
----
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/paweł harasiuk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paweł harasiuk" height="30" width="40" /></a>
