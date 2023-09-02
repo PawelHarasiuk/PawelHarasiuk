@@ -5,7 +5,7 @@ Welcome to my GitHub profile. I'm a Computer Science student at the Polish-Japan
 ## 💫 About Me:
 
 - 🎓 I study Computer Science at the Polish-Japanese Academy of Information Technology.
-- 🌠 I am currently specializing in Intelligent Data Processing as part of my studies, which enables me to further explore my interests in AI and Data Science.
+- 🌠 I am currently specializing in Intelligent Data Processing Systems as part of my studies, which enables me to further explore my interests in AI and Data Science.
 - 📝 You can find my CV and Certificates.
 - ✨ I'm passionate about improving my skills in Data Science, with expertise in tools such as Python, C++, C#, and Java.
 - 🔑 To learn more about me, my current projects, priorities, and my bio you can find my contact email and links to my social profiles there!
