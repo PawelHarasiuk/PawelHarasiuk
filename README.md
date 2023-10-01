@@ -5,7 +5,7 @@ I am a computer science student with a strong interest in AI, machine learning, 
 ## 💫 About Me:
 
 - 🎓 I study Computer Science at the Polish-Japanese Academy of Information Technology.
-- 🌠 I am currently specializing in Intelligent Data Processing Systems as part of my studies, which enables me to further explore my interests in AI and Data Science.
+- 🌠 I am currently specializing in Intelligent Data Processing Systems as part of my studies.
 - ✨ I'm passionate about improving my skills in Data Science.
 
 ## 💻 Tech Stack:
