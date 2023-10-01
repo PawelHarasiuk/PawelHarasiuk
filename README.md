@@ -1,14 +1,12 @@
 # Hi there, I'm Paweł! 👋
 
-Welcome to my GitHub profile. I'm a Computer Science student at the Polish-Japanese Academy of Information Technology, and I'm passionate about a variety of things. 
+Welcome to my GitHub profile. I am a computer science student with a strong interest in AI, machine learning, and data science. Currently I program mainly in Java and Python. Additionally, I have some basic experience in C# and C++. Outside of the tech world, I'm into music, philosophy, board games, chess, and books.
 
 ## 💫 About Me:
 
 - 🎓 I study Computer Science at the Polish-Japanese Academy of Information Technology.
 - 🌠 I am currently specializing in Intelligent Data Processing Systems as part of my studies, which enables me to further explore my interests in AI and Data Science.
-- 📝 You can find my CV and Certificates.
-- ✨ I'm passionate about improving my skills in Data Science, with expertise in tools such as Python, C++, C#, and Java.
-- 🔑 To learn more about me, my current projects, priorities, and my bio you can find my contact email and links to my social profiles there!
+- ✨ I'm passionate about improving my skills in Data Science.
 
 ## 💻 Tech Stack:
 <br><br>
