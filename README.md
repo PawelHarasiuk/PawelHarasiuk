@@ -77,4 +77,4 @@ I am a computer science student with a strong interest in AI, machine learning, 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pawelharasiuk&" alt="pawelharasiuk" /></p>
 
 <br><br>
-Feel free to explore my repositories and projects. If you have any questions or just want to chat, don't hesitate to reach out! 😄
+Feel free to explore my repositories and projects. If you have any questions, don't hesitate to reach out! 😄
