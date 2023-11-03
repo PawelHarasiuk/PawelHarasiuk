@@ -1,6 +1,6 @@
 # Hi there, I'm Paweł! 👋
 
-I am a computer science student with a strong interest in AI, machine learning, and data science. Currently I program mainly in Java and Python. Additionally, I have some basic experience in C# and C++. Outside of the tech world, I'm into music, philosophy, board games, chess, and books.
+I am a computer science student with a strong interest in AI, machine learning, and data science. Currently I program mainly in Java and Python. Additionally, I have some basic experience in C# and C++. Outside of the tech world, I'm into music, board games, chess, and books.
 
 ## 💫 About Me:
 
