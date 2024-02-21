@@ -1,6 +1,6 @@
 # Hi there, I'm Paweł! 👋
 
-I am a computer science student with a strong interest in AI, machine learning, and data science. Currently I program mainly in Java and Python. Additionally, I have some basic experience in C# and C++. Outside of the tech world, I'm into music, board games, chess, and books.
+I am a computer science student with a strong interest in AI, machine learning, and data science. Currently I program mainly in Python and Java. Additionally, I have some basic experience in C# and C++. Outside of the tech world, I'm into music, board games, chess, and books.
 
 ## 💫 About Me:
 
@@ -73,7 +73,8 @@ I am a computer science student with a strong interest in AI, machine learning, 
 
 <br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pawelharasiuk&show_icons=true&locale=en&layout=compact" alt="pawelharasiuk" /></p>
+<p style="margin-bottom: 20px;"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pawelharasiuk&show_icons=true&locale=en&layout=compact" alt="pawelharasiuk" /></p>
 
 <br><br>
+
 Feel free to explore my repositories and projects. If you have any questions, don't hesitate to reach out! 😄
