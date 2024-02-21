@@ -74,7 +74,6 @@ I am a computer science student with a strong interest in AI, machine learning, 
 <br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pawelharasiuk&show_icons=true&locale=en&layout=compact" alt="pawelharasiuk" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pawelharasiuk&" alt="pawelharasiuk" /></p>
 
 <br><br>
 Feel free to explore my repositories and projects. If you have any questions, don't hesitate to reach out! 😄
