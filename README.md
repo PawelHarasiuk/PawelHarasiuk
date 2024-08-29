@@ -1,12 +1,14 @@
 # Hi there, I'm Paweł! 👋
 
-I am a computer science student with a strong interest in AI, machine learning, and data science. Currently I program mainly in Python and Java. Additionally, I have some basic experience in C# and C++. Outside of the tech world, I'm into music, board games, chess, and books.
+I am a computer science student who tries to explore different areas of the field:
+Currently learning Go for fun and creating small project with it. I try to learn some frontent with techonologies like js/ts/html/css/react but it is not my main focus, I do it just to better understand communication with backend. My main experience is with Java, especially from my studies. I've also specialized in Python data science specialisation. I’m also involved in a Data Science Club and a Rust Club, exploring new skills and technologies.
+Outside of the tech world, I'm into cooking, board games, chess, and books.
 
 ## 💫 About Me:
 
 - 🎓 I study Computer Science at the Polish-Japanese Academy of Information Technology.
 - 🌠 I am currently specializing in Intelligent Data Processing Systems as part of my studies.
-- ✨ I'm passionate about improving my skills in Data Science.
+- ✨ My new discovered passion is Go language - is really fun to learn.
 
 ## 💻 Tech Stack:
 <p align="left">
@@ -76,5 +78,4 @@ I am a computer science student with a strong interest in AI, machine learning, 
 <p style="margin-bottom: 20px;"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pawelharasiuk&show_icons=true&locale=en&layout=compact" alt="pawelharasiuk" /></p>
 
 <br><br>
-
 Feel free to explore my repositories and projects. If you have any questions, don't hesitate to reach out! 😄
