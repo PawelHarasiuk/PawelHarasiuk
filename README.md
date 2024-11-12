@@ -1,8 +1,6 @@
 # Hi there, I'm Paweł! 👋
 
-I am a computer science student who tries to explore different areas of the field.
-Currently learning Go for fun and creating small project with it. I try to learn some frontent with techonologies like js/ts/html/css/react but it is not my main focus, I do it just to better understand communication with backend. My main experience is with Java, especially from my studies. I also have experience in Python because of data science specialisation. I’m also involved in a Data Science Club and a Rust Club, exploring diffrent technologies.
-Outside of the tech world, I'm into cooking, board games, chess, and books.
+I'm a computer science student exploring different tech areas. I'm learning Go for fun, working on small projects. My main background is in Java from my studies, and I have Python experience through a data science specialization. I'm active in both a Data Science Club and a Rust Club. In free time I enjoy cooking, board games, chess, and reading books.
 
 ## 💫 About Me:
 
