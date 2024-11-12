@@ -62,4 +62,4 @@ I'm a computer science student exploring different tech areas and trying to find
 <p style="margin-bottom: 20px;"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pawelharasiuk&show_icons=true&locale=en&layout=compact" alt="pawelharasiuk" /></p>
 
 <br><br>
-Feel free to explore my repositories and projects. If you have any questions, don't hesitate to reach out! 😄
+Feel free to explore my repositories and projects. If you have any questions, feel free to reach out! 😄
