@@ -63,4 +63,4 @@ I'm active in both a Data Science Club and a Rust Club, where I collaborate with
 <p style="margin-bottom: 20px;"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pawelharasiuk&show_icons=true&locale=en&layout=compact" alt="pawelharasiuk" /></p>
 
 <br><br>
-Feel free to explore my repositories and projects. If you have any questions, feel free to reach out! 😄
+Feel free to explore my repositories and projects. If you have any questions, feel free to reach out 😄
