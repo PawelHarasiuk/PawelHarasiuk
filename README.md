@@ -1,7 +1,7 @@
 # Hi there, I'm Paweł! 👋
 
 I'm a computer science student exploring different tech areas, with a background in Java from my studies and Python from a data science specialization. 
-I'm active in both a Data Science Club and a Rust Club, where I collaborate with others and learn new things. In my free time, I enjoy learning new technologies like Go and AWS by working on small projects.
+I'm active in a Data Science Club, where I collaborate with others and learn new things. In my free time, I enjoy learning new technologies like Go and AWS by working on small projects.
 
 ## 💫 About Me:
 
