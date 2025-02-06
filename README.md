@@ -5,9 +5,9 @@ I'm active in a Data Science Club, where I collaborate with others and learn new
 
 ## 💫 About Me:
 
-- 🎓 I study Computer Science at the Polish-Japanese Academy of Information Technology
-- 🌠 I am currently specializing in Intelligent Data Processing Systems as part of my studies
-- ✨ My new discovered passion is Go language - is really fun to learn
+- 🎓 I study Computer Science at the Polish-Japanese Academy of Information Technology.
+- 🌠 I am currently specializing in Intelligent Data Processing Systems as part of my studies.
+- ✨ My new discovered passion is Go language - is really fun to learn.
   
 ## 💻 Tech Stack:
 <p align="left">
